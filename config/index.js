@@ -24,8 +24,6 @@ export const config = {
     loveDate: "2022-08-04",
     // 相遇
     
-    }
-
  //{{date.DATA}}  
 //城市：{{city.DATA}}  
 //天气：{{weather.DATA}}  
